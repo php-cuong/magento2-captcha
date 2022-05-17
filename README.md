@@ -14,3 +14,6 @@ So what will we do in this practice?
 
 # See the video How to add the category filter to product grid in Magento 2 Admin.
 https://www.youtube.com/watch?v=KzANZpBmgmc&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ&index=87
+
+# See the video How to add the CAPTCHA to a customization form in Magento 2.
+https://www.youtube.com/watch?v=cmtxxpIWOPM&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ&index=88
