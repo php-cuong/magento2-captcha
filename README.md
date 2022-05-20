@@ -12,7 +12,7 @@ So what will we do in this practice?
 # Screenshot
 ![ScreenShot](https://github.com/php-cuong/magento2-captcha/blob/main/Screenshot/captcha.gif)
 
-# How to add the category filter to product grid in Magento 2 Admin.
+# How to change the font and remove the background image of Captcha in Magento 2.
 https://www.youtube.com/watch?v=KzANZpBmgmc&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ&index=87
 
 # How to add the CAPTCHA to a customization form in Magento 2.
